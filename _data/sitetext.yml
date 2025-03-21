@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Holz • Stein • Metall 
+    text: Lasergravur in Kitzbühel
+    button: Angebot
     buttonlink: "#services"
 
   services:
