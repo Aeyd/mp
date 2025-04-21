@@ -11,10 +11,4 @@ image: "assets/img/portfolio/header_preise1.jpg" #main image, can be a link or a
 alt: lasergravur metall jagd motiv
 gallery_path: "assets/img/portfolio/preise1"
 ---
-Use this area to describe your project. **Markdown** supported.
-
-optional info list (delete if not using):
-
-{:.list-inline} 
-- Preis: 
 

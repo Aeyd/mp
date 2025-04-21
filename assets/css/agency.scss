@@ -17,7 +17,7 @@
 {% endif %}
 
 // Custom colors
-$primary: {{ site.data.style.highlight | default: "#c92838" }} !default; // #c92838
+$primary: {{ site.data.style.highlight | default: "#2787a0ff" }} !default; // #c92838
 $white: {{ site.data.style.white | default: "#fff" }} !default;
 $black: {{ site.data.style.black | default: "#181818" }} !default;
 

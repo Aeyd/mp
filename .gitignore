@@ -4,4 +4,5 @@
 .jekyll-cache
 Gemfile.lock
 unused
+_site
 bootstrap-reference.html
