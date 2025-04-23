@@ -13,7 +13,7 @@ de: &DEFAULT_DE
   nav:
     - title: "Angebot"
       section: angebot
-    - title: "Preise"
+    - title: "Produkte"
       section: portfolio
     - title: "Über mich"
       section: ueber

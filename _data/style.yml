@@ -12,7 +12,7 @@ contact-image: "../img/lasergravur.png"
 # Add custom fonts
 fonts_urls:
     - "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-    - "https://fonts.googleapis.com/css?family=Oswald"
+    - "https://fonts.googleapis.com/css?family=Space+Grotesk:wght@500"
     - "https://fonts.googleapis.com/css?family=Poppins"
     - "https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700"
 
@@ -20,7 +20,7 @@ fonts_urls:
 fonts:
   - name: "Poppins"
     for: "heading"
-  - name: "Oswald"
+  - name: "Space+Grotesk"
     for: "script"
   - name: "Poppins"
     for: "serif"

@@ -21,7 +21,7 @@ de: &DEFAULT_DE
         icon: fas fa-smile
 
   portfolio:
-    title: "Preise"
+    title: "Produkte"
     text: "Meine Preisgestaltung ist transparent und fair. Kontaktieren Sie mich gerne für eine unverbindliche Beratung und ein persönliches Angebot."
     section: preise
     closebutton: "Zurück"

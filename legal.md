@@ -3,7 +3,8 @@ layout: page
 title: Privacy Policy
 background: grey
 ---
-
+<br />
+<br />
 ## Impressum
 
 Informationen und Offenlegung gemäß §5 (1) ECG, § 25 MedienG, § 63 GewO und § 14 UGB
