@@ -62,6 +62,11 @@ EU-US Privacy-Shield unterworfen.
 
 https://www.privacyshield.gov/EU-US-Framework
 
+**Formspree**
+Für das Kontaktformular verwenden wir den externen Anbieter Formspree, welche für die Übermittlung der eingegebenen Daten im Kontaktformular von uns beauftragt wurde.
+
+Durch die Verwendung des Kontaktformulars stimmen Sie der Datenschutzerklärung von Formspree https://formspree.io/legal/privacy-policy zu und sind sich bewusst das Ihre Daten von diesem Anbieter verarbeitet werden.
+
 **Cloudflare**
 Wir nutzen das Content Delivery Network (CDN) von Cloudflare Germany GmbH, Rosental 7, c/o Mindspace, 80331 München Deutschland (Cloudflare), um die Sicherheit und die Auslieferungsgeschwindigkeit unserer Website zu erhöhen. Dies entspricht unserem berechtigten Interesse (Art. 6 Abs. 1 lit. f DSGVO). Ein CDN ist ein Netzwerk aus [weltweit] verteilten Servern, das in der Lage ist, optimiert Inhalte an den Websitenutzer auszuliefern. Für diesen Zweck können personenbezogene Daten in Server-Logfiles von Cloudflare verarbeitet werden. Bitte vergleichen Sie die Ausführungen unter „Hosting“.
 
