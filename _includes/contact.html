@@ -32,7 +32,7 @@
               <div class="form-group">
                 <input name="phone" class="form-control" id="phone" type="tel"
                   placeholder="{{ site.data.sitetext[site.locale].contact.phone | default: "Phone Number*" }}"
-                  required="required" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.phone-validation | default: "Please enter your phone number." }}">
+                  required="" data-validation-required-message="{{ site.data.sitetext[site.locale].contact.phone-validation | default: "Please enter your phone number." }}">
                 <p class="help-block text-danger"></p>
               </div>
             </div>
@@ -47,9 +47,13 @@
             <input type="hidden" name="_subject" id="email-subject"
               value="{{ site.data.sitetext[site.locale].contact.subject | default: "Contact Form Submission" }}">
             <div class="clearfix"></div>
-            <div class="field">
-              <input name="data-consent" id="data-consent" type="checkbox" required="">
-              <label for="data-consent">Ich stimme der Übermittlung meiner Daten im Sinne der <a href="/legal">Datenschutzvereinbarung</a> zu</label>
+            <div class="col-lg-12">
+              <div class="form-group">
+                <div class="field">
+                  <input name="data-consent" id="data-consent" type="checkbox" required="">
+                  <label style="color: white;" for="data-consent">Ich stimme der Übermittlung meiner Daten im Sinne der <a href="/legal">Datenschutzvereinbarung</a> zu</label>
+                </div>
+              </div>
             </div>
             <div class="col-lg-12 text-center">
               <div id="success"></div>
