@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Privacy Policy
+title: Impressum | Datenschutz 
 background: grey
+noindex: true
 ---
 <br />
 <br />

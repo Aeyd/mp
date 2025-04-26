@@ -47,6 +47,10 @@
             <input type="hidden" name="_subject" id="email-subject"
               value="{{ site.data.sitetext[site.locale].contact.subject | default: "Contact Form Submission" }}">
             <div class="clearfix"></div>
+            <div class="field">
+              <input name="data-consent" id="data-consent" type="checkbox" required="">
+              <label for="data-consent">Ich stimme der Übermittlung meiner Daten im Sinne der <a href="/legal">Datenschutzvereinbarung</a> zu</label>
+            </div>
             <div class="col-lg-12 text-center">
               <div id="success"></div>
               <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase"
